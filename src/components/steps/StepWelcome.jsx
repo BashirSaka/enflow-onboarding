@@ -7,7 +7,7 @@ export default function StepWelcome() {
     <div>
       <h1 className="text-xl font-bold text-ink mb-2">Run your restaurant smarter.</h1>
       <p className="text-sm text-ink-muted mb-6 leading-relaxed">
-        Let <span className="text-accent-light">ZaraAI</span> handle stuff — orders, replies, reviews, reports — while you focus on the food and the floor.
+        Let <span className="text-accent-light">ZaraAI</span> handle stuff orders, replies, reviews, reports while you focus on the food and the floor.
       </p>
 
       <div className="space-y-3 mb-4">
